@@ -6,15 +6,15 @@ using {
 } from '@sap/cds/common';
 
 entity Users {
-    key ID     : UUID;
-        userName: String;
-        desk  :  String;
-        building  : String;
-        date     : Date;
+    key ID     : UUID @title : 'ID';
+        userName: String @title : 'Username';
+        desk  :  String @title: 'Desk';
+        building  : String @title: 'Building Name';
+        date     : Date @title : 'Date';
 }
 
 entity UsertoDelete {
-    key id      : String;
+    key id      : String @title : 'ID';
 }
 
 view UserList as
