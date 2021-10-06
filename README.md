@@ -25,7 +25,13 @@ Don't get lost searching for that teammate who is a wizard when it comes to solv
 
 `package.json` | project metadata and configuration
 
-  
+ 
+# Technologies Used
+
+ - [CAP (SAP Cloud Application Programming Model)](https://cap.cloud.sap/docs/get-started/in-a-nutshell)
+ - [SAP HANA](https://www.sap.com/uk/products/hana.html)
+ - [SAP AppGyver](https://blogs.sap.com/2021/03/17/appgyver-a-new-joy-to-build-apps/)
+ - [ODATA RestAPI](https://www.odata.org/)
 
 # Next Steps
 
