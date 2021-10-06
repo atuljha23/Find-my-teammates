@@ -54,9 +54,9 @@ Don't get lost searching for that teammate who is a wizard when it comes to solv
 ### Connect your Rest-API to AppGyver Application (For AppGyver Deployment)
 
 
- Get Started with AppGyver [AppGyver by SAP](https://www.appgyver.com/)
- AppGyver Tutorials [SAP Developer Tutorial](https://developers.sap.com/tutorial-navigator.html?search=Appgyver)
- Connect AppGyver to your ODATA API [SAP Community](https://blogs.sap.com/2021/04/05/appgyver-and-sap-business-technology-platform-a-match-made-in-heaven/)
+ - Get Started with AppGyver [AppGyver by SAP](https://www.appgyver.com/)
+ - AppGyver Tutorials [SAP Developer Tutorial](https://developers.sap.com/tutorial-navigator.html?search=Appgyver)
+ - Connect AppGyver to your ODATA API [SAP Community](https://blogs.sap.com/2021/04/05/appgyver-and-sap-business-technology-platform-a-match-made-in-heaven/)
   
 
 ### # Deploy a CAP Business Application to SAP Business Technology Platform
