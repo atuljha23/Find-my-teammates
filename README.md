@@ -9,7 +9,6 @@ Don't get lost searching for that teammate who is a wizard when it comes to solv
 # Files and Folder | Purpose
 
 
----------|----------
 `ODATA API/` | contains the O-Data API created using CAP (SAP Cloud Application Programming Model)
 
 `Appgyver App/` | contains the build version of  Web Version of the Find My Teammates app.
@@ -52,19 +51,7 @@ Don't get lost searching for that teammate who is a wizard when it comes to solv
   
   ## UML diagrams
 
-```mermaid
-sequenceDiagram
-Find My Teammates ->> Backend Rest-API: Find everyone coming to office on 2021-10-05
-Backend Rest-API-->>CAP Model (Rest-API): GET Users Available on 2021-10-05?
-CAP Model (Rest-API)->> Backend Rest-API: Returns an Array in form of JSON
-Backend Rest-API-->> Find My Teammates: List of everyone coming to office on 2021-10-05 along with their respective building and desk information.
-Note right of CAP Model (Rest-API): This CAP Model is using HANA <br/>as a backend database<br/>and returns metadata and<br/>query results in form of rest-api results.
-
-Find My Teammates->>Backend Rest-API: Search for Bob in office on this.date
-Backend Rest-API->>CAP Model (Rest-API): Select Users Where UserName eq 'Bob' and date eq '2021-10-06'
-CAP Model (Rest-API)-->>Backend Rest-API: Returns an Array with the searched query
-Backend Rest-API-->> Find My Teammates: Bob is available in office today, Bob location is sent along with building name and desk location.
-```
+![UML Diagram](https://i.ibb.co/0B2tT7f/uml-diagram.png)
 
 ## Screenshots
 
