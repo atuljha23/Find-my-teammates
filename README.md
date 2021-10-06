@@ -67,11 +67,42 @@ Don't get lost searching for that teammate who is a wizard when it comes to solv
 
 ![UML Diagram](https://i.ibb.co/0B2tT7f/uml-diagram.png)
 
-## Screenshots
+# Screenshots
+
+## Application Built on Fiori using Fiori Tools (Open Application Generator)
+
+#### Add A Record
+
+![Add A Record](https://i.ibb.co/y5LSkyx/fioriaddrecord.png)
+
+#### Teammates Finder Section
+
+![enter image description here](https://i.ibb.co/hmVK1Cj/Fiori-preview.png)
+## Application Built on Appgyver.
+
+#### Homepage
 
 ![Homepage](https://i.ibb.co/v1Dy4X5/2.jpg)
 
+
+
+
+#### Add A Record
+
+
+
+
 ![enter image description here](https://i.ibb.co/xm2D8TX/3.jpg)
+
+
+
+
+
+#### Fetched Result
+
+
+
+
 
 ![Fetched Result](https://i.ibb.co/M68c8LP/1.jpg)
 
