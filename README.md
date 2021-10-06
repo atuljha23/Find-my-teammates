@@ -11,7 +11,7 @@ Don't get lost searching for that teammate who is a wizard when it comes to solv
 
 `ODATA API/` | contains the O-Data API created using CAP (SAP Cloud Application Programming Model)
 
-`Appgyver App/` | contains the build version of  Web Version of the Find My Teammates app.
+`Fiori App/` | contains the build version of Find My Teammates app on Fiori Launchpad Preview.
 
 # ODATA CAP Model
 
@@ -30,6 +30,7 @@ Don't get lost searching for that teammate who is a wizard when it comes to solv
 
  - [CAP (SAP Cloud Application Programming Model)](https://cap.cloud.sap/docs/get-started/in-a-nutshell)
  - [SAP HANA](https://www.sap.com/uk/products/hana.html)
+ - [SAP Fiori Tools](https://help.sap.com/viewer/product/SAP_FIORI_tools/Latest/en-US)
  - [SAP AppGyver](https://blogs.sap.com/2021/03/17/appgyver-a-new-joy-to-build-apps/)
  - [ODATA RestAPI](https://www.odata.org/)
 
@@ -43,7 +44,18 @@ Don't get lost searching for that teammate who is a wizard when it comes to solv
 
 - Start adding content, for example, a [db/schema.cds](db/schema.cds).
 
-### Connect your Rest-API to AppGyver Application
+### Launch The App on SAP Fiori Launchpad ([SAP Fiori Tools](https://help.sap.com/viewer/product/SAP_FIORI_tools/Latest/en-US))
+
+- In order to launch the generated app, simply run the following from the generated app root folder:
+- ```
+    npm start
+```
+
+
+
+
+
+### Connect your Rest-API to AppGyver Application (For AppGyver Deployment)
 
 
  Get Started with AppGyver [AppGyver by SAP](https://www.appgyver.com/)
