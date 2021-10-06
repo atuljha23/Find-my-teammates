@@ -47,12 +47,8 @@ Don't get lost searching for that teammate who is a wizard when it comes to solv
 ### Launch The App on SAP Fiori Launchpad ([SAP Fiori Tools](https://help.sap.com/viewer/product/SAP_FIORI_tools/Latest/en-US))
 
 - In order to launch the generated app, simply run the following from the generated app root folder:
-- ```
-    npm start
-```
 
-
-
+    ```  npm start  ```
 
 
 ### Connect your Rest-API to AppGyver Application (For AppGyver Deployment)
